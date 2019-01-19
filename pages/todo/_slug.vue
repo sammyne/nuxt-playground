@@ -2,7 +2,7 @@
   <div>
     <hello-world :render-func="md.vue.render" :static-render-funcs="md.vue.staticRenderFns"></hello-world>
 
-    <hr>
+    <br>
     {{ md.html }}
   </div>
 </template>
